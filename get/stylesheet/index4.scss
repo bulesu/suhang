@@ -1,0 +1,95 @@
+.header{
+    width: 1200px;
+    height: 130px;
+    margin: auto;
+}
+.hd-li{
+    width: 80px;
+    height: 130px;
+    text-align: center;
+    line-height: 130px;
+    float: right;
+    color: #999999;
+    font-size: 12px;
+}
+.header img{
+    float: left;
+    margin: 30px 0px;
+}
+.red{
+    height: 2px;
+    background-color: #cc0000;
+}
+.mod{
+    width: 1200px;
+    height: 400px;
+    margin:auto;
+    padding: 20px 20px;
+}
+.mod img{
+    float: left;
+    margin: 0 60px;
+
+}
+.mod-right{
+    width: 400px;
+    height: 400px;
+    border: 1px solid #999999;
+    float: right;
+    margin: 0 60px;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 250px;
+    margin: 20px 0px;
+
+}
+#mspan{
+    font-size: 12px;
+    color: #dddddd;
+    display: none;
+}
+#box2{
+    display: none;
+}
+#box2 .active{
+    background: teal;
+    color: #ffffff;
+}
+#box2 span{
+    height: 20px;
+    width:50px;
+    background: #dddddd;
+    text-align: center;
+    display: block;
+    float: left;
+    margin: 5px 5px;
+}
+.mod-d{
+    height: 40px;
+    width: 60px;
+    border: 1px solid #999999;
+}
+#btn1 {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin:0 20px;
+}
